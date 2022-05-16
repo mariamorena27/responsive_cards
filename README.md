@@ -6,7 +6,7 @@
 ### Web Version
 
 <p align="center">
-<img src="assets/web_version.png" alt="Web Version" width="75%">
+<img src="assets/web_version.png" alt="Web Version" width="80%">
 </p>
 
 <br>
